@@ -1,0 +1,2 @@
+clusterone==0.10.3
+tensor2tensor[tensorflow_gpu]==1.5.6
